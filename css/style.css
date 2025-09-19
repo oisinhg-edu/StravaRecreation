@@ -1,0 +1,26 @@
+#logo {
+    width: 100px;
+}
+
+.my-nav {
+    display: flex;
+    gap: 24px;
+}
+
+.my-nav li {
+    list-style: none;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+.nav-right {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
